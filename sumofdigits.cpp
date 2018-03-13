@@ -9,6 +9,6 @@ while(num!=0)
 sum=sum+r;
 num=num/10;
 }
-cout<<"The sum of digits of the diven number is : "<<sum<<endl;
+cout<<"The sum of digits of the given number is : "<<sum<<endl;
 return 0;
 }
